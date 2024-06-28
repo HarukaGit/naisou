@@ -1,0 +1,2 @@
+naisou filter=lfs diff=lfs merge=lfs -text
+naisou.blend filter=lfs diff=lfs merge=lfs -text
